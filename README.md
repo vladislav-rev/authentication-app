@@ -5,11 +5,11 @@ Description: Template of an authorisation page for an unborn app.
 Demonstration: 
 
 ## Sign in page
-![image](https://user-images.githubusercontent.com/68603630/135975150-9cddbb46-b4fe-442f-9dcd-4bac5aa8d661.png)
+![image](https://user-images.githubusercontent.com/68603630/135975352-7e48ea55-3183-49d0-bf8f-f3bab696c129.png)
 
 
 ## Sign up page
-![image](https://user-images.githubusercontent.com/68603630/135975095-fa2233eb-927b-4ffa-a0ff-535b8d40681f.png)
+![image](https://user-images.githubusercontent.com/68603630/135975414-ee46a2a9-19fc-47cd-ac5b-96eba5438f35.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
