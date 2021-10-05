@@ -9,7 +9,7 @@ Demonstration:
 
 
 ## Sign up page
-![image](https://user-images.githubusercontent.com/68603630/135975414-ee46a2a9-19fc-47cd-ac5b-96eba5438f35.png)
+![image](https://user-images.githubusercontent.com/68603630/135975641-3da5743d-3d95-4c8c-a09d-6b0d259376d1.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
